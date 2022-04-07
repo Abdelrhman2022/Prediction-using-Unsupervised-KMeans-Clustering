@@ -5,8 +5,9 @@ The Notebook is supposed to predict the optimal number of k (clusters) of unlabe
 and represent it visually<br>
 
 ## Dataset 
-Dataset can be found here https://bit.ly/3kXTdox 
-Also can import it using
+- Dataset can be found here https://bit.ly/3kXTdox 
+
+- Also can import it using
 ```  sklearn.datasets ``` 
 
 ## Steps 
