@@ -9,7 +9,7 @@ Dataset can be found here https://bit.ly/3kXTdox (We imported it using sklearn.d
 <ul>
 <li>Reading and exploring the data</li>
 <li>Preparing the data</li>
-<li>Finding the optimum number of clusters manually</li>
+  <li>Finding the optimum number of clusters With <b>WCSS</b> </li>
 <li>Finding the optimum number of clusters using Elbow method</li>
 <li>Training model</li>
 <li>Visualizing clusters</li>
