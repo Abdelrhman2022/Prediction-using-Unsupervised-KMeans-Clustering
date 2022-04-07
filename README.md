@@ -3,7 +3,11 @@
 ## Prediction using Unsupervised  KMeans Clustering
 The Notebook is supposed to predict the optimal number of k (clusters) of unlabeld data (iris dataset)<br>
 and represent it visually<br>
-Dataset can be found here https://bit.ly/3kXTdox (We imported it using sklearn.datasets)
+
+## Dataset 
+Dataset can be found here https://bit.ly/3kXTdox 
+Also can import it using
+```  sklearn.datasets ``` 
 
 ## Steps 
 <ul>
