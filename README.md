@@ -1,7 +1,7 @@
 
 
 ## Prediction using Unsupervised  KMeans Clustering
-The Notebook is supposed to predict the optimal number of k (clusters) of unlabeld data (iris dataset)<br>
+The Notebook is supposed to predict the optimal number of k (clusters) of unlabeled data (iris dataset)<br>
 and represent it visually<br>
 
 ## Dataset 
